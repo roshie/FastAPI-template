@@ -28,3 +28,6 @@ You can also view your API docs here.
 http://127.0.0.1:8000/docs
 or
 http://127.0.0.1:8000/redoc
+
+![image](https://user-images.githubusercontent.com/67852344/137637131-a56cdb8b-cbc8-4cb2-808b-ae86dfe0bcff.png)
+
